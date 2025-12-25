@@ -49,7 +49,12 @@ Undo: When you're done, click the "🛑 UNDO button"... Oblivion saves your prog
 
 📥 Download
 Currently available for Linux (I will do for windows before 2026) 
-(psst Insert Release Link here)
+
+Linux vvvvvv
+https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager/releases/tag/v25.8.4
+
+Windows 10/11 vvvvvvv
+(chill)
 
 💜 Socials & Credits... actually, no credits, just me:
 
