@@ -1,4 +1,4 @@
-# Oblivion Vaults (A Minecraft Mods and Settings Manager)
+# Oblivion Vaults (A Minecraft Mods and Settings Organizer, Arranger, Manager, you get the gist)
 
 BEFORE I START!!, IM LAZY AT GUI DESIGNING SO DONT BLAME ME THAT IT LOOKS LIKE SOME 1985 SOFTWARE :(
 Atleast I made good use of emojis to keep it from looking "Terminally"
