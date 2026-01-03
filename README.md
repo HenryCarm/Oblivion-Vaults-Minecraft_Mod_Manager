@@ -9,7 +9,7 @@ Stop letting your 1.12 mods crash your 1.20 game T-T... OBLIVION is a standalone
 🔮 OBLIVION -
 OBLIVION is a standalone, aesthetic-focused instance manager for Minecraft. It doesn't just launch the game; it surgically removes your mods, settings, and worlds, locks them in a secure "Vault," and swaps them out instantly. No more manual folder dragging. No more corrupted chunks. (I think I already said that...) 
 
-<img width="785" height="582" alt="image" src="https://github.com/user-attachments/assets/c8b7e794-bb27-4200-b5fd-91b01605954c" />
+<img width="1129" height="682" alt="Screenshot from 2026-01-03 19-19-14" src="https://github.com/user-attachments/assets/bbef198c-48b5-405c-a0f9-d87b6e08599f" />
 
 
 ☕ Why you need this as a Modded Java Player
@@ -53,7 +53,7 @@ https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager/releases/tag/
 
 
 Linux 🐧🪽 vvvvvv
-https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager/releases/download/v25.8.4/Oblivion-Linux-x64.zip
+https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager/releases/download/v26.2/Oblivion-v26.2.0-Linux-x64.zip
 
 Windows 🪟 vvvvvvv
 https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager/releases/download/v25.8.4/Oblivion-Windows-x64.zip
@@ -65,9 +65,9 @@ https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager/releases/down
 📧 Contact Email: hnrycrm@gmail.com
 
 
-Random Screenshot T-T:
+Old Screenshots T-T:
 <img width="727" height="509" alt="image" src="https://github.com/user-attachments/assets/b0a28572-175a-4a7e-bc7f-3fc37304b652" />
-
+<img width="785" height="582" alt="image" src="https://github.com/user-attachments/assets/c8b7e794-bb27-4200-b5fd-91b01605954c" />
 
 _________________________________________________________
 
