@@ -1,4 +1,4 @@
-# 🌀 Oblivion Vaults 🌀 (A Minecraft Mods and Settings Organizer, Arranger, Manager, you get the gist) 📂
+# 🌀 Oblivion Vaults 🌀 (A Minecraft Mods and Settings Organizer, Arranger, Manager, Injecter, you get the tea) 📂
 
 BEFORE I START!!, IM LAZY AT GUI DESIGNING SO DONT BLAME ME THAT IT LOOKS LIKE SOME 2015 SOFTWARE :(
 Atleast I made good use of emojis to keep it from looking "Terminally"
@@ -48,13 +48,13 @@ Play: Go crazy. Break stuff. It doesn't matter.
 
 Undo: When you're done, click the "🛑 UNDO button"... Oblivion saves your progress, removes the Vault files, and puts your original files back exactly how they were.
 
-📥 Download
+📥 Download 📥
 Currently available for Linux (I will do for windows before 2026) 
-https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager/releases/tag/v25.8.4
+https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager/releases/tag/v26.3
 
 
 Linux 🐧🪽 vvvvvv
-https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager/releases/download/v26.2/Oblivion-v26.2.0-Linux-x64.zip
+https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager/releases/download/v26.3/Oblivion.v26.3.1.-.Quick.Inject.Linux_x64
 
 Windows 🪟 vvvvvvv
 https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager/releases/download/v25.8.4/Oblivion-Windows-x64.zip
